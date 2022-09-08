@@ -16,4 +16,8 @@ public class Soft {
 		System.out.println("I am akshay");
 		softly.assertAll();
 	}
+	@Test
+	public void MyTest() {
+		System.out.println("Akshay");
+	}
 }

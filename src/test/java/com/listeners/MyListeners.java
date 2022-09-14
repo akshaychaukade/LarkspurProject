@@ -15,7 +15,7 @@ public class MyListeners implements ITestListener {
 	//public void onTestSuccess(ITestResult result) {
 		// TODO Auto-generated method stub
 		
-	}
+	
 
 	public void onTestFailure(ITestResult result) {
 		// TODO Auto-generated method stub

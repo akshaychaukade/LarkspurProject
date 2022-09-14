@@ -2,5 +2,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.dataprovider.DPDemo"/>
+      <class name="com.PavanBokadePackage.pavanBokadeClass"/>
+      <class name="com.asserts.Soft"/>
+      <class name="com.dataprovider.StateData"/>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

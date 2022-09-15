@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-14T09:08:04Z" name="Default suite" finished-at="2022-09-14T09:08:13Z" duration-ms="9252">
+  <suite started-at="2022-09-15T12:44:55 IST" name="Default suite" finished-at="2022-09-15T12:44:56 IST" duration-ms="80">
     <groups>
     </groups>
-    <test started-at="2022-09-14T09:08:04Z" name="Default test" finished-at="2022-09-14T09:08:13Z" duration-ms="9252">
-      <class name="com.PavanBokadePackage.pavanBokadeClass">
-        <test-method signature="m101()[pri:0, instance:com.PavanBokadePackage.pavanBokadeClass@6d167f58]" started-at="2022-09-14T14:38:04Z" name="m101" finished-at="2022-09-14T14:38:13Z" duration-ms="9224" status="PASS">
+    <test started-at="2022-09-15T12:44:55 IST" name="Default test" finished-at="2022-09-15T12:44:56 IST" duration-ms="80">
+      <class name="com.PavanBokadePackage.abc">
+        <test-method signature="absb()[pri:0, instance:com.PavanBokadePackage.abc@1ed6388a]" started-at="2022-09-15T12:44:55 IST" name="absb" finished-at="2022-09-15T12:44:56 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m101 -->
-      </class> <!-- com.PavanBokadePackage.pavanBokadeClass -->
+        </test-method> <!-- absb -->
+      </class> <!-- com.PavanBokadePackage.abc -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

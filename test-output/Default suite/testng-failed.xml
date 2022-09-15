@@ -8,6 +8,11 @@
           <include name="m1"/>
         </methods>
       </class> <!-- com.dataprovider.DPDemo -->
+      <class name="com.asserts.Soft">
+        <methods>
+          <include name="m1"/>
+        </methods>
+      </class> <!-- com.asserts.Soft -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

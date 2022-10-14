@@ -12,7 +12,7 @@ public class Soft {
 		
 		System.out.println("continue");
 		softly.assertEquals("hii", "hii");
-		softly.assertEquals("hii", "hii");
+		softly.assertEquals("hii", "hii"); 
 		System.out.println("I am akshay");
 		softly.assertAll();
 	}
